@@ -1,0 +1,25 @@
+{
+  "name": "test-local-port",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Simple HTTP test on a local port for each available local address",
+  "homepage": "https://github.com/adrien-febvay/test-local-port",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Adrien Febvay",
+    "email": "adrien.febvay@gmail.com",
+    "url": "https://www.linkedin.com/in/adrien-febvay-b82b15a5/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adrien-febvay/test-local-port.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
